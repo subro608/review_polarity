@@ -1,2 +1,2 @@
 # review_polarity
-A sentiment analysing of reviews project using Machine Learning Algorithms 
+Sentiment analysis of reviews using Machine Learning Algorithms 
